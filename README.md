@@ -1,5 +1,4 @@
-# NAI 
-GIn I.7 - 75c | s27118, s27084
+# NAI | GIn I.7 - 75c | s27118, s27084
 
 ---
 
@@ -34,7 +33,7 @@ Autor zasad: **Andy (Strategy Game Guide)**
 
 # Instalacja i uruchomienie
 
-1. Sklonuj repozytorium lub pobierz plik `dont_say_21.py`:
+1. Pobierz plik `dont_say_21.py` lub sklonuj repozytorium za pomocą komendy:<br>
    `git clone https://github.com/<twoje-repo>/dont-say-21.git`
 
 2. Uruchom grę w konsoli:
@@ -55,9 +54,11 @@ Dzięki temu gra staje się ciekawa, a wygrana zależy od Twojej taktyki
 ---
 # Podsumowanie
 
-Projekt przygotowany w ramach zajęć:  
-NAI GIn I.7 - 75c
+Zadanie przygotowane w ramach zajęć:  
+NAI GIn I.7 - 75c, LAB1
 
 Twórcy:
 - s27084  
 - s27118
+ 
+<img width="636" height="724" alt="ilustration1" src="https://github.com/user-attachments/assets/1557ec68-7a5f-4b81-af44-c9dc924ec0e7" />
