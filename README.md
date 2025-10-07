@@ -34,12 +34,12 @@ Autor zasad: **Andy (Strategy Game Guide)**
 # Instalacja i uruchomienie
 
 1. Pobierz plik `dont_say_21.py` lub sklonuj repozytorium za pomocą komendy:<br>
-   `git clone https://github.com/<twoje-repo>/dont-say-21.git`
+   `git clone https://github.com/pawlak20k/NAI.git`
 
-2. Uruchom grę w konsoli:
+3. Uruchom grę w konsoli:
    `python dont_say_21.py`
 
-3. Postępuj zgodnie z instrukcjami na ekranie.
+4. Postępuj zgodnie z instrukcjami na ekranie.
 
 ---
 
