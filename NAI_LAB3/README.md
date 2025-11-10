@@ -4,16 +4,28 @@
 
 # Movie Recommender (Python)
 
-Opis: **Silnik rekomendacji filmów i antyrekomendacji** wykorzystujący dane o ocenach użytkowników oraz zewnętrzne API OMDb do pobierania informacji o filmach.
+**Silnik rekomendacji filmów i antyrekomendacji** wykorzystujący dane o ocenach użytkowników oraz zewnętrzne API OMDb do pobierania informacji o filmach.
 
 ---
 
 # Działanie programu
 
 
-*(Przykładowy widok konsoli po uruchomieniu programu)*
+<img width="1832" height="827" alt="s1" src="https://github.com/user-attachments/assets/536c2e73-c657-4125-b10e-9f17340b5a63" />
 
-Program generuje rekomendacje filmowe w oparciu o **filtrację współużytkowników (user-based collaborative filtering)**.  
+*(Scenariusz 1, użytkownik 1, liczba pozycji 3)*
+
+<img width="1834" height="559" alt="s2" src="https://github.com/user-attachments/assets/5a0cc813-88e5-4895-b1f6-c311c1d07db0" />
+
+*(Scenariusz 2, użytkownik 2, liczba pozycji 2)*
+
+<img width="1830" height="557" alt="s3" src="https://github.com/user-attachments/assets/1be78677-8e52-4e21-9e87-b41eff8c886c" />
+
+*(Scenariusz 3, użytkownik 4, liczba pozycji 2)*
+
+Niektóre pozycje zwracają "OMDb: {"Error": "Movie not found!"}" - wynika to z braku informacji o filmie w bazie OMDb.
+
+Program generuje rekomendacje filmowe w oparciu o **filtrację współużytkowników**.  
 Dla wybranego użytkownika:
 - proponuje **5 filmów, które mogą mu się spodobać**, a których jeszcze nie oglądał,
 - oraz **5 filmów, których prawdopodobnie nie powinien oglądać** (antyrekomendacje),
@@ -122,3 +134,4 @@ Zadanie przygotowane w ramach zajęć:
 Twórcy:
 - s27084  
 - s27118
+
