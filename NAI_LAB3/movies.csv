@@ -1,0 +1,16 @@
+movieId,title,genres
+1,The Shawshank Redemption (1994),Drama
+2,The Godfather (1972),Crime|Drama
+3,The Dark Knight (2008),Action|Crime|Drama
+4,Pulp Fiction (1994),Crime|Drama
+5,The Lord of the Rings: The Fellowship of the Ring (2001),Adventure|Fantasy
+6,Forrest Gump (1994),Comedy|Drama|Romance
+7,Inception (2010),Action|Adventure|Sci-Fi
+8,The Matrix (1999),Action|Sci-Fi
+9,Twilight (2008),Drama|Romance
+10,The Room (2003),Drama
+11,Cats (2019),Musical|Comedy
+12,Birdemic: Shock and Terror (2010),Horror
+13,Interstellar (2014),Adventure|Drama|Sci-Fi
+14,Fight Club (1999),Drama
+15,The Silence of the Lambs (1991),Crime|Drama|Thriller
