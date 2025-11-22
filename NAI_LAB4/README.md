@@ -11,6 +11,11 @@ Program umożliwia trenowanie modeli, ocenę jakości klasyfikacji oraz eksperym
 
 # Działanie programu
 
+<img width="1187" height="2074" alt="all_nai" src="https://github.com/user-attachments/assets/6e4a4a87-4b53-426a-89d8-be2e14f1f5e7" />
+
+*Output programu*
+
+
 Program wykonuje następujące kroki:  
 
 1. **Ładowanie danych:**
