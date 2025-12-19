@@ -1,4 +1,4 @@
-# # NAI | GIn I.7 - 75c | s27118, s27084
+# NAI | GIn I.7 - 75c | s27118, s27084
 
 ---
 
@@ -9,6 +9,8 @@ Implementacja i porównanie sieci neuronowych w zadaniach regresji oraz klasyfik
 ---
 
 # Działanie programu
+
+<img width="1006" height="775" alt="lab5" src="https://github.com/user-attachments/assets/21cb57b1-59b2-4e24-99ed-76a02f99d7e5" />
 
 Program wykonuje następujące kroki:
 
@@ -72,4 +74,5 @@ NAI GIn I.7 - 75c, LAB5
 
 Twórcy:
 - s27118
+
 - s27084
