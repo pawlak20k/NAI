@@ -21,6 +21,12 @@ Program wykonuje następujące kroki:
 2. Zadanie 2: Klasyfikacja obrazów - CIFAR-10
    - Rozpoznawanie zwierząt przy użyciu Sieci Splotowej (CNN).
    - Architektura obejmuje warstwy Conv2D oraz MaxPooling2D.
+  
+3. Zadanie 3: Porównanie architektur - Fashion-MNIST
+   - Klasyfikacja ubrań przy użyciu dwóch różnych rozmiarów sieci:
+     - Model MAŁA: 1 warstwa ukryta (16 neuronów).
+     - Model DUŻY: 2 warstwy ukryte (128 i 64 neurony) + warstwy Dropout.
+   - Analiza wpływu złożoności modelu na wynik końcowy
 
 3. Zadanie 4: Case Study - Diagnoza Medyczna (Breast Cancer)
    - Klasyfikacja binarna nowotworów na podstawie parametrów komórkowych.
@@ -56,6 +62,7 @@ Aby uruchomić projekt, wykonaj poniższe komendy w terminalu:
 ### Dlaczego te modele?
 - Zadanie 1: Pokazuje porównanie błędu RMSE między siecią a regresją.
 - Zadanie 2: CNN jest standardem w rozpoznawaniu obrazów.
+- Zadanie 3: Pokazuje różnicę w dokładności (Accuracy) między prostą a rozbudowaną siecią.
 - Zadanie 4: Zastosowanie stabilnego zbioru Breast Cancer gwarantuje poprawne działanie macierzy pomyłek (Confusion Matrix) bez błędów pobierania danych z sieci.
 
 ---
@@ -74,5 +81,5 @@ NAI GIn I.7 - 75c, LAB5
 
 Twórcy:
 - s27118
-
 - s27084
+
