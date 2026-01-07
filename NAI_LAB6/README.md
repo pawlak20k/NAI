@@ -10,6 +10,9 @@ Zbudowanie systemu rozpoznającego i lokalizującego flagę polską, rosyjską i
 ---
 
 # Działanie programu:
+
+![Scenariusz testowy przy użyciu flag](action_example.mp4)
+
 1. Przechwytywanie wideo: Pobieranie obrazu z kamery w czasie rzeczywistym.
 2. Przetwarzanie HSV: Konwersja klatek do przestrzeni barw HSV w celu eliminacji wpływu oświetlenia.
 3. Segmentacja kolorów: Wyodrębnienie kluczowych barw (biały, czerwony, niebieski, żółty) przy użyciu masek binarnych.
