@@ -54,6 +54,10 @@ Program stosuje hierarchiczną logikę sprawdzania warunków:
 ---
 
 # Podsumowanie:
-Projekt zrealizowany w ramach przedmiotu: NAI GIn I.7 - 75c, LAB 06.
-Twórcy: s27118, s27084.
+Projekt zrealizowany w ramach przedmiotu: NAI GIn I.7 - 75c, LAB6
+
+Twórcy:
+- s27118
+- s27084
+
 Kod źródłowy został opatrzony dokumentacją Python Docstring, a do repozytorium dołączono nagranie wideo prezentujące detekcję.
