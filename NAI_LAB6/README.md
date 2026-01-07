@@ -11,6 +11,7 @@ Zbudowanie systemu rozpoznającego i lokalizującego flagę polską, rosyjską i
 
 # Działanie programu:
 
+Kliknij w poniższy obrazek, aby obejrzeć nagranie z działania systemu (rozpoznawanie flag Polski, Rosji i Ukrainy):
 [![Rozpoznawanie Flag - Scenariusz Testowy](https://img.youtube.com/vi/-ffJFoGQy1s/0.jpg)](https://www.youtube.com/watch?v=-ffJFoGQy1s)
 
 1. Przechwytywanie wideo: Pobieranie obrazu z kamery w czasie rzeczywistym.
