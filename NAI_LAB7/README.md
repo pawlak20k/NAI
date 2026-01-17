@@ -11,7 +11,22 @@ Program umożliwia trenowanie agenta, wizualizację jego decyzji w czasie rzeczy
 
 # Działanie programu
 
+Trenowanie modelu:
+
+<img width="739" height="744" alt="training_process" src="https://github.com/user-attachments/assets/1e6c961f-6ff2-4578-b9f0-4354db2912ed" />
+
+
+Działanie programu dla parametru `5_000` kroków:
+
+https://github.com/user-attachments/assets/4dd8402c-2fc6-4a06-ad15-fc569c52c7f3
+
+Działanie programu dla parametru `100_000` kroków:
+
+https://github.com/user-attachments/assets/4fbb7094-fa78-4497-8fe7-1142d693bb2e
+
 *Program działa w trybie graficznym (render_mode="human") i widać, jak agent podejmuje decyzje, aby utrzymać drążek w pionie.*
+
+Porównując oba przykładowe użycia - program zdecydowanie lepiej radzi sobie w przypadku gdy liczba kroków jest większa.
 
 Program wykonuje następujące kroki:  
 
@@ -43,7 +58,7 @@ Program wykonuje następujące kroki:
   - `gymnasium`
   - `stable-baselines3`
   - `torch` (PyTorch)  
-- System operacyjny: dowolny (Windows / macOS / Linux)
+- System operacyjny: dowolny
 
 ---
 
@@ -98,7 +113,8 @@ Program automatycznie:
 CartPoleRL/
 ├── cartpole_rl.py        # Główny plik programu
 ├── README.md             # Dokumentacja projektu
-└── ppo_cartpole.zip      # Wytrenowany model PPO
+└── 100k_ppo_cartpole.zip    # Wytrenowany model PPO dla 100_000 kroków
+└── 5k_ppo_cartpole.zip      # Wytrenowany model PPO dla 5_000 kroków
 ```
 
 # Przykład użycia
